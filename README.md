@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on my projects.
 
-- 🤝 I’m looking for help with Agentic a repo.
+- 🤝 I’m looking for help with ai agentic repo.
 
 - 💬 Ask me about Machine learning, AI & AWS
 

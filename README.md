@@ -2,9 +2,9 @@
 - 👀 I’m interested in Quantum and AI tech.
 - 🌱 I’m currently learning LLMs and working with deep learning frameworks.
 
-- 👯 I’m looking to collaborate on AI Webscraper
+- 👯 I’m looking to collaborate on my projects.
 
-- 🤝 I’m looking for help with Curse Cloak
+- 🤝 I’m looking for help with Agentic a repo.
 
 - 💬 Ask me about Machine learning, AI & AWS
 
